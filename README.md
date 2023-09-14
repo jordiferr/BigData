@@ -2,6 +2,14 @@
 
 ## R
 
+Mitjançant el programa [R](https://www.r-project.org/) i les llibreries:
+
+ * [ggplot2](https://ggplot2.tidyverse.org/)
+ * [dplyr](https://dplyr.tidyverse.org/)
+ * [lubridate](https://lubridate.tidyverse.org/)
+
+es poden grear els següents gràfics
+
 ### Gràfics
 
 Gràfic 1 - anàlisi de dades segons duració hores streamer 1
