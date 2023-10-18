@@ -18,6 +18,9 @@ Gràfic 1 - anàlisi de dades segons duració hores streamer 1
 <img src="./pictures/R - Grafic punts entrevites.png" alt="R - Grafic general">
 <br />
 <br />
+<img src="./pictures/R - Grafic punts i regressio linial tertulies The Wild Project.png" alt="R - Regressió linial tertulies">
+<br />
+<br />
 <br />
 <br />
 Gràfics - anàlisi de dades streamer 2
