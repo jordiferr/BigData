@@ -35,5 +35,6 @@ Gràfics - anàlisi de dades streamer 2
 <img src="./pictures/R - Distribucio hores per dies mesos i anys.png" alt="R - Gràfic de distribucio segons hores per dies mesos i anys">
 <br />
 <br />
+<img src="./pictures/R - Boxplot inici streams per dia i mes.png" alt="R - Gràfic de caixa per a saber la probabilitat de quan comença el stream">
 <br />
 <br />
