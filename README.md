@@ -44,3 +44,7 @@ Imatges generals des del inici fins a finals d'Abril de 2024
 <img src="./pictures/R - Boxplot inici streams per dia i mes (2016 - 2024).png" alt="R - Boxplot inici streams per dia i mes (2016 - 2024)">
 <br />
 <br />
+Gràfic linial des del començament dels streams (2016) fins al Juny de 2024
+<br />
+<br />
+<img src="./pictures/R - Boxplot linial inici streams per dia i mes (2016 - 2024).png" alt="R - Boxplot linial inici streams per dia i mes (2016 - 2024)">
