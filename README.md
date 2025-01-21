@@ -42,10 +42,10 @@ Gràfics - anàlisi de dades streamer 2
 <img src="./pictures/R - Boxplot inici streams per dia i mes.png" alt="R - Gràfic de caixa per a saber la probabilitat de quan comença el stream">
 <br />
 <br />
-Imatges generals des del inici fins a finals d'Abril de 2024
+Imatges generals des del inici fins a finals de Juliol de 2024
 <br />
 <br />
-<img src="./pictures/R - Boxplot inici streams per dia i mes (2016 - 2025).png" alt="R - Boxplot inici streams per dia i mes (2016 - 2025)">
+<img src="./pictures/R - Boxplot inici streams per dia i mes (2016 - 2024).png" alt="R - Boxplot inici streams per dia i mes (2016 - 2024)">
 <br />
 <br />
 Gràfic linial (Hora de començament) des del començament dels streams (2016) fins al Gener de 2025
