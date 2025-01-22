@@ -2,7 +2,7 @@
 
 ## Bash
 
-El codi [codi_automatitzar_csv](codi_automatitzar_csv.sh) és una utilitata per a poder facilitar la automatització de l'actualització de les dades amb les que es creen els gràfics.
+El codi [codi_automatitzar_csv](codi_automatitzar_csv.sh) és una utilitat per a poder facilitar la automatització de l'actualització de les dades amb les que es creen els gràfics.
 
 ## R
 
