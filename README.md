@@ -12,7 +12,7 @@ Mitjançant el programa [R](https://www.r-project.org/) i les llibreries:
  * [dplyr](https://dplyr.tidyverse.org/)
  * [lubridate](https://lubridate.tidyverse.org/)
 
-es poden grear els següents gràfics
+es poden crear els següents gràfics
 
 ### Gràfics
 
